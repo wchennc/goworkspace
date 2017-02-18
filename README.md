@@ -1,0 +1,2 @@
+# goworkspace
+Playground for go
